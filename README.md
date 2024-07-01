@@ -1,7 +1,3 @@
-# Air-Canvas
-Developed "Air Canvas," a computer vision tool that allows drawing in the air using hand gestures with OpenCV and MediaPipe. Implemented real-time video capture, hand tracking, and virtual canvas drawing using Python, NumPy, OpenCV, and MediaPipe.
-
-***Air Canvas ML Model***
 Ever wished to capture your imagination by just waving your finger in the air? The "Air Canvas" project allows you to draw in the air using hand gestures, leveraging OpenCV and MediaPipe for real-time hand tracking and landmark detection.
 
 Tools and Libraries Used
