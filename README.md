@@ -2,11 +2,6 @@
 
 Ever wished to capture your imagination by just waving your finger in the air? The "Air Canvas" project allows you to draw in the air using hand gestures, leveraging OpenCV and MediaPipe for real-time hand tracking and landmark detection.
 
-![Uploading Screenshot 2024-08-10 at 12.45.16.png…]()
-![Uploading Screenshot 2![Uploading Screenshot 2024-08-10 at 12.46.36.png…]()
-024-08-10 at 12.48.28.png…]()
-
-
 ## Tools and Libraries Used
 
 - Python3
